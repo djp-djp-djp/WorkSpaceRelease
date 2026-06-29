@@ -6,20 +6,20 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 0.1.4</title>
+      <title>WorkSpace 0.1.5</title>
       <description><![CDATA[
         <ul>
-          <li>发布 WorkSpace 0.1.4。</li>
+          <li>发布 WorkSpace 0.1.5。</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 29 Jun 2026 11:45:23 +0800</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <pubDate>Mon, 29 Jun 2026 13:20:37 +0800</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-0.1.4.zip"
-        sparkle:edSignature="DTyyw7kn1Dovm9VLcGDB7O1KQxKC0q17R9oCtHTUoBXO+DVAIYvAYeT7u9FZfNqdSYEnfFjPBx9LI25QC9UdCw=="
-        length="3124088"
+        url="WorkSpace-0.1.5.zip"
+        sparkle:edSignature="Hmpj3Di054BIfVnRo6kA2BHnDdXfbHVdvNn+WRSiZTAUrWwYNrSbAR/bMn0IfTUeo21dU4qURdWIdjZzMMO2BA=="
+        length="3124087"
         type="application/octet-stream" />
     </item>
   </channel>
