@@ -6,22 +6,22 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 0.1.8</title>
+      <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>修复打开 Xcode 时找不到 Xcode.app 的问题，自动兼容 Xcode-版本.app。</li>
-          <li>打开 Xcode 时优先按工作区名称定位 .xcodeproj。</li>
-          <li>优化新建工作区默认 Git 地址、删除分支选择和顶部工具栏分组。</li>
+          <li>新增组件依赖图页面</li>
+          <li>支持从组件 Package.swift 解析组件依赖和第三方依赖</li>
+          <li>优化依赖图选中与解析中的交互体验</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 29 Jun 2026 18:34:45 +0800</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <pubDate>Tue, 30 Jun 2026 14:19:57 +0800</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-0.1.8.zip"
-        sparkle:edSignature="d+SjeoYPto9SJvYgOHrPrGyZS9hgVqyS330BegDgBU8KkbGwWiZFnNMigzfg0fnPqWH9hWTiVgC6BqKFx9rQBA=="
-        length="3231176"
+        url="WorkSpace-1.0.0.zip"
+        sparkle:edSignature="u3ByMzk91wfKACzO9G4qBvO4iDcB3vd5S9MZhd34G6xtQfusD7W/3Vn62ZZVIMwwLyV9GqV1Lw5fC1O92OZTDw=="
+        length="3513000"
         type="application/octet-stream" />
     </item>
   </channel>
