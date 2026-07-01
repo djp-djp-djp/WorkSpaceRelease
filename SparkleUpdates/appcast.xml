@@ -9,17 +9,17 @@
       <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>修复组件依赖页面在非全屏窗口下 Tab 栏消失的问题</li>
+          <li>修复组件依赖页面在窗口高度不足时筛选工具栏被内容挤压重叠的问题</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 01 Jul 2026 11:37:25 +0800</pubDate>
-      <sparkle:version>18</sparkle:version>
+      <pubDate>Wed, 01 Jul 2026 11:44:02 +0800</pubDate>
+      <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="5/NChuWLCoHIJrzQDfwg/myf68E7LVbYqDSX+fFKsOcpLvPR+vbgdTKNu5HKSckFtnArBd6guFQwqKZpMQYWBA=="
-        length="3949857"
+        sparkle:edSignature="Q8yvnL7fsQEXhnzQXQ4gn6r4bEB/uXmiP1fHe4dz2HsyVHqbcNV3as9wnEPzI4KdHQtCf+lBu1EVLrbEyF4BAA=="
+        length="3954362"
         type="application/octet-stream" />
     </item>
   </channel>
