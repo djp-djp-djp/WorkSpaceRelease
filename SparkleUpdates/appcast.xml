@@ -9,17 +9,17 @@
       <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>启动后自动检查更新</li>
+          <li>优化日志面板拖拽流畅度</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 01 Jul 2026 17:31:17 +0800</pubDate>
-      <sparkle:version>21</sparkle:version>
+      <pubDate>Wed, 01 Jul 2026 18:14:40 +0800</pubDate>
+      <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="ZhKWscO8fvfan7CPbdJmX97BPet3SY55bVHpXm6nPBqpYJ8f4HGnt5X3SaFtUmtB9mNDuv7CFjOi6LqnvXGKBw=="
-        length="3972569"
+        sparkle:edSignature="1srUrzM3I1pzOa5xB77aHQYZzvnmA3kTbdT5xuPuMycb8za91NmUXMpCEacbvHO9w1WJutOPdpAU5EzEl4odDQ=="
+        length="3968373"
         type="application/octet-stream" />
     </item>
   </channel>
