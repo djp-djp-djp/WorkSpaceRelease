@@ -9,17 +9,18 @@
       <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>修复组件依赖 Tab 栏在部分窗口尺寸下消失的问题</li>
+          <li>修复点击组件依赖后 Tab 栏消失的问题</li>
+          <li>优化组件区域布局稳定性</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 01 Jul 2026 11:10:48 +0800</pubDate>
-      <sparkle:version>16</sparkle:version>
+      <pubDate>Wed, 01 Jul 2026 11:26:47 +0800</pubDate>
+      <sparkle:version>17</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="TKNRLrbXHRRq7PUFvOKwVbynnc5EImQAG03TNo7v6PZDNerSp5mmyZHaS6XGXf78ZTtq2IqON0jQ2MJmY/0RCg=="
-        length="3940598"
+        sparkle:edSignature="igsOFUpzlFW+L0yo0I2pcd9S+xBGZiY4EBpan50Sd+TdBsuyU4zlzCrSigjo5kVfk8wRY44tAjYuxjM4Hp2cBg=="
+        length="3943209"
         type="application/octet-stream" />
     </item>
   </channel>
