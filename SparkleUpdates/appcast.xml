@@ -9,20 +9,17 @@
       <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>修复删除分支时会按当前分支 branch.yml 删除组件分支的问题</li>
-          <li>修复左侧工作区展开后组件历史双击偶发无响应的问题</li>
-          <li>优化组件历史页返回入口</li>
-          <li>优化左侧工作区分支显示宽度</li>
+          <li>启动后自动检查更新</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 01 Jul 2026 17:18:21 +0800</pubDate>
-      <sparkle:version>20</sparkle:version>
+      <pubDate>Wed, 01 Jul 2026 17:31:17 +0800</pubDate>
+      <sparkle:version>21</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="S4qX3o7Qx8P3g9VmxYwaGKqiCcOCldEeFXuver1JDFTuJCleOq44Wv0GKvHHQafVdCoVgFzgDLBK04Aoop3wBQ=="
-        length="3970808"
+        sparkle:edSignature="ZhKWscO8fvfan7CPbdJmX97BPet3SY55bVHpXm6nPBqpYJ8f4HGnt5X3SaFtUmtB9mNDuv7CFjOi6LqnvXGKBw=="
+        length="3972569"
         type="application/octet-stream" />
     </item>
   </channel>
