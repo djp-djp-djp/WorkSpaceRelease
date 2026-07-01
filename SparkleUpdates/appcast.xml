@@ -9,17 +9,18 @@
       <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>移除 Branch 列表本地路径列</li>
+          <li>优化依赖关系图卡片布局</li>
+          <li>修复组件详情模板路径打开逻辑</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:47:30 +0800</pubDate>
-      <sparkle:version>14</sparkle:version>
+      <pubDate>Wed, 01 Jul 2026 10:28:46 +0800</pubDate>
+      <sparkle:version>15</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="/K6FiCpCo2H6cZzNL23h+S+JciCNxOCF4j23/O7oMNaXoX2kOuZ6jPHDZgBzlyF/3ESrADVy0ejlO/Cwl/qdCA=="
-        length="3911146"
+        sparkle:edSignature="5MhdN1gFqHaaJ0qm2sD1zNP18REN5XM5kjnz4rPXqeQUjMC76QHYwsEfKotPqJkLSxb6af3xohDKpDkI285rBg=="
+        length="3939291"
         type="application/octet-stream" />
     </item>
   </channel>
