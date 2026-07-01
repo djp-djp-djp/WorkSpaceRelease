@@ -9,18 +9,17 @@
       <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>优化依赖关系图卡片布局</li>
-          <li>修复组件详情模板路径打开逻辑</li>
+          <li>修复组件依赖 Tab 栏在部分窗口尺寸下消失的问题</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:28:46 +0800</pubDate>
-      <sparkle:version>15</sparkle:version>
+      <pubDate>Wed, 01 Jul 2026 11:10:48 +0800</pubDate>
+      <sparkle:version>16</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="5MhdN1gFqHaaJ0qm2sD1zNP18REN5XM5kjnz4rPXqeQUjMC76QHYwsEfKotPqJkLSxb6af3xohDKpDkI285rBg=="
-        length="3939291"
+        sparkle:edSignature="TKNRLrbXHRRq7PUFvOKwVbynnc5EImQAG03TNo7v6PZDNerSp5mmyZHaS6XGXf78ZTtq2IqON0jQ2MJmY/0RCg=="
+        length="3940598"
         type="application/octet-stream" />
     </item>
   </channel>
