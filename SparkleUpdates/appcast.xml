@@ -9,19 +9,18 @@
       <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>新增组件依赖图页面</li>
-          <li>支持从组件 Package.swift 解析组件依赖和第三方依赖</li>
-          <li>优化依赖图选中与解析中的交互体验</li>
+          <li>优化导入本地仓库弹窗</li>
+          <li>修复导入本地仓库时主线程读取 Git 信息导致的性能告警</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 30 Jun 2026 14:19:57 +0800</pubDate>
-      <sparkle:version>12</sparkle:version>
+      <pubDate>Wed, 01 Jul 2026 09:30:47 +0800</pubDate>
+      <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="u3ByMzk91wfKACzO9G4qBvO4iDcB3vd5S9MZhd34G6xtQfusD7W/3Vn62ZZVIMwwLyV9GqV1Lw5fC1O92OZTDw=="
-        length="3513000"
+        sparkle:edSignature="ZGN3Df+tXByPDheM55gShhX+wZwkeunq7nV99lHtonnObDGJMArxwllXpoE9JwUkETngqqWu3Qgv86mXIuA5Ag=="
+        length="3911625"
         type="application/octet-stream" />
     </item>
   </channel>
