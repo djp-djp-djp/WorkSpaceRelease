@@ -9,18 +9,17 @@
       <title>WorkSpace 1.0.0</title>
       <description><![CDATA[
         <ul>
-          <li>优化导入本地仓库弹窗</li>
-          <li>修复导入本地仓库时主线程读取 Git 信息导致的性能告警</li>
+          <li>移除 Branch 列表本地路径列</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:30:47 +0800</pubDate>
-      <sparkle:version>13</sparkle:version>
+      <pubDate>Wed, 01 Jul 2026 09:47:30 +0800</pubDate>
+      <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="ZGN3Df+tXByPDheM55gShhX+wZwkeunq7nV99lHtonnObDGJMArxwllXpoE9JwUkETngqqWu3Qgv86mXIuA5Ag=="
-        length="3911625"
+        sparkle:edSignature="/K6FiCpCo2H6cZzNL23h+S+JciCNxOCF4j23/O7oMNaXoX2kOuZ6jPHDZgBzlyF/3ESrADVy0ejlO/Cwl/qdCA=="
+        length="3911146"
         type="application/octet-stream" />
     </item>
   </channel>
