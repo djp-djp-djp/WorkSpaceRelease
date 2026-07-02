@@ -6,20 +6,22 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.0.0</title>
+      <title>WorkSpace 1.1.0</title>
       <description><![CDATA[
         <ul>
-          <li>优化日志面板拖拽流畅度</li>
+          <li>优化组件依赖新增依赖体验</li>
+          <li>优化新建和删除分支流程</li>
+          <li>优化终端偏好与组件历史交互</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 01 Jul 2026 18:14:40 +0800</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <pubDate>Thu, 02 Jul 2026 15:31:24 +0800</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.0.0.zip"
-        sparkle:edSignature="1srUrzM3I1pzOa5xB77aHQYZzvnmA3kTbdT5xuPuMycb8za91NmUXMpCEacbvHO9w1WJutOPdpAU5EzEl4odDQ=="
-        length="3968373"
+        url="WorkSpace-1.1.0.zip"
+        sparkle:edSignature="+hwhJgktt10Jh7O1Ui1RzYS4H6gTtrN+8RK8L2Pasbi1MqPEyqMMDrA1/93fRuuV7iwHqHUSHMcntP/ROZoEBw=="
+        length="4255741"
         type="application/octet-stream" />
     </item>
   </channel>
