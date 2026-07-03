@@ -6,22 +6,23 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.1.0</title>
+      <title>WorkSpace 1.2.0</title>
       <description><![CDATA[
         <ul>
-          <li>优化组件依赖新增依赖体验</li>
-          <li>优化新建和删除分支流程</li>
-          <li>优化终端偏好与组件历史交互</li>
+          <li>新增当前分支合并最新代码，支持壳子与 Branch 组件一起合并 develop 分支，并在冲突时更新 Git 状态。</li>
+          <li>新建分支前会先拉取壳子与来源分支组件的最新代码。</li>
+          <li>优化 Git 操作日志，批量操作会显示逐仓库执行与状态刷新进度，并补充路径和 fetch 失败信息。</li>
+          <li>修复壳子 Git 状态日志显示工作区名而不是产品名的问题。</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 02 Jul 2026 15:31:24 +0800</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <pubDate>Fri, 03 Jul 2026 15:08:42 +0800</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.1.0.zip"
-        sparkle:edSignature="+hwhJgktt10Jh7O1Ui1RzYS4H6gTtrN+8RK8L2Pasbi1MqPEyqMMDrA1/93fRuuV7iwHqHUSHMcntP/ROZoEBw=="
-        length="4255741"
+        url="WorkSpace-1.2.0.zip"
+        sparkle:edSignature="B25ymxyfoOZ4bQDDeZDqxo2apuqr27zDHVNffmujXD8IaP++fNYlWK7B1/gUHbgwISnk0aiGv49Tz+7YRv3EAA=="
+        length="4323162"
         type="application/octet-stream" />
     </item>
   </channel>
