@@ -6,24 +6,23 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.3.0</title>
+      <title>WorkSpace 1.4.0</title>
       <description><![CDATA[
         <ul>
-          <li>新增远程分支入口，支持筛选、拉取并可选 checkout 到远程分支</li>
-          <li>新增合并最新代码流程，合并前检查未提交改动并标记冲突状态</li>
-          <li>完善 Git 操作日志，批量操作和状态刷新展示单仓库进度</li>
-          <li>新建/删除分支弹窗刷新壳子本地分支列表，并支持右键刷新分支列表</li>
-          <li>优化删除分支超时处理和缺失分支提示</li>
+          <li>新增当前分支重命名功能，支持壳子和当前 branch.yml 中同名组件本地分支一起改名</li>
+          <li>重命名前检查壳子和同名组件仓库未提交改动，发现改动时整次操作停止</li>
+          <li>简化重命名分支弹窗，去掉本地分支列表和搜索，仅保留当前分支与新分支名</li>
+          <li>调整分支操作入口，重命名分支放到远程分支右侧</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 06 Jul 2026 11:16:07 +0800</pubDate>
-      <sparkle:version>25</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <pubDate>Tue, 07 Jul 2026 09:23:29 +0800</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.3.0.zip"
-        sparkle:edSignature="Mhy4dlOrRRMlx8n2bCVwNKx5I6JoqcgX7M9KA/z0+36+nOpadM7P6ZWLbvrMJuya9LSCdFLQOUX4zTwGVVrrCA=="
-        length="4412744"
+        url="WorkSpace-1.4.0.zip"
+        sparkle:edSignature="Inmr4/myB8WGzzKhcJEtfPqnwSGPp+gG8s1Z3VvvNNOdbQqZibuxKrWLrXoJwfCv4jmC3donUMU85kqt7IG2Dg=="
+        length="4442832"
         type="application/octet-stream" />
     </item>
   </channel>
