@@ -6,23 +6,22 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.4.0</title>
+      <title>WorkSpace 1.4.1</title>
       <description><![CDATA[
         <ul>
-          <li>新增当前分支重命名功能，支持壳子和当前 branch.yml 中同名组件本地分支一起改名</li>
-          <li>重命名前检查壳子和同名组件仓库未提交改动，发现改动时整次操作停止</li>
-          <li>简化重命名分支弹窗，去掉本地分支列表和搜索，仅保留当前分支与新分支名</li>
-          <li>调整分支操作入口，重命名分支放到远程分支右侧</li>
+          <li>新增生成 Package.swift 后自动执行 Xcode Reset Package Caches 开关</li>
+          <li>补充壳子和 Branch 组件的本地/远程分支展示</li>
+          <li>为重新扫描和清理 Package.resolved 增加确认提示</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 07 Jul 2026 09:23:29 +0800</pubDate>
-      <sparkle:version>26</sparkle:version>
-      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <pubDate>Wed, 08 Jul 2026 11:40:14 +0800</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.4.0.zip"
-        sparkle:edSignature="Inmr4/myB8WGzzKhcJEtfPqnwSGPp+gG8s1Z3VvvNNOdbQqZibuxKrWLrXoJwfCv4jmC3donUMU85kqt7IG2Dg=="
-        length="4442832"
+        url="WorkSpace-1.4.1.zip"
+        sparkle:edSignature="YvrsrW1359WRmU+Fiu3OgFRoOa2Lsy3rMPirafh8hsFncqcC3yYNBcoD3IPYyfD/n9yFWCpihXi019PZSGlxAQ=="
+        length="4483218"
         type="application/octet-stream" />
     </item>
   </channel>
