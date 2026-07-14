@@ -6,23 +6,20 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.5.0</title>
+      <title>WorkSpace 1.5.1</title>
       <description><![CDATA[
         <ul>
-          <li>新增一键拉取证书，可选择业务线、新证书与 development/adhoc/appstore 环境</li>
-          <li>自动检测 Fastlane 环境，并提供 RubyGems 与 Homebrew 安装入口</li>
-          <li>证书拉取过程显示精简实时进度与最终匹配结果</li>
-          <li>调整工具栏按钮布局，移动重新扫描入口</li>
+          <li>修复组件编辑时 spm.yml 依赖版本被本地分支覆盖的问题</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 14 Jul 2026 10:01:29 +0800</pubDate>
-      <sparkle:version>28</sparkle:version>
-      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <pubDate>Tue, 14 Jul 2026 11:24:44 +0800</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.5.0.zip"
-        sparkle:edSignature="yzoa8DYQPLCgvN0Wba6GJOknJQA8ZddKnPbJQJrFkQXTbekhofC2O1XdgyeNFlAtk+JVEOlWJ2B/v8tpAANWDg=="
-        length="4600678"
+        url="WorkSpace-1.5.1.zip"
+        sparkle:edSignature="lsfgOvIOzwJeEsl9HV8qNjul0Q5eB3hm3bLltFOShsqL/0XyWL8H6pnD+hRKEWHmvAYYCrjEdQIlnh/H3GHkAQ=="
+        length="4600636"
         type="application/octet-stream" />
     </item>
   </channel>
