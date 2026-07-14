@@ -6,22 +6,23 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.4.1</title>
+      <title>WorkSpace 1.5.0</title>
       <description><![CDATA[
         <ul>
-          <li>新增生成 Package.swift 后自动执行 Xcode Reset Package Caches 开关</li>
-          <li>补充壳子和 Branch 组件的本地/远程分支展示</li>
-          <li>为重新扫描和清理 Package.resolved 增加确认提示</li>
+          <li>新增一键拉取证书，可选择业务线、新证书与 development/adhoc/appstore 环境</li>
+          <li>自动检测 Fastlane 环境，并提供 RubyGems 与 Homebrew 安装入口</li>
+          <li>证书拉取过程显示精简实时进度与最终匹配结果</li>
+          <li>调整工具栏按钮布局，移动重新扫描入口</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 08 Jul 2026 11:40:14 +0800</pubDate>
-      <sparkle:version>27</sparkle:version>
-      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <pubDate>Tue, 14 Jul 2026 10:01:29 +0800</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.4.1.zip"
-        sparkle:edSignature="YvrsrW1359WRmU+Fiu3OgFRoOa2Lsy3rMPirafh8hsFncqcC3yYNBcoD3IPYyfD/n9yFWCpihXi019PZSGlxAQ=="
-        length="4483218"
+        url="WorkSpace-1.5.0.zip"
+        sparkle:edSignature="yzoa8DYQPLCgvN0Wba6GJOknJQA8ZddKnPbJQJrFkQXTbekhofC2O1XdgyeNFlAtk+JVEOlWJ2B/v8tpAANWDg=="
+        length="4600678"
         type="application/octet-stream" />
     </item>
   </channel>
