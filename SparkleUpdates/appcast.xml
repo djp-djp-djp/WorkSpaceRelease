@@ -6,20 +6,23 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.5.1</title>
+      <title>WorkSpace 1.5.2</title>
       <description><![CDATA[
         <ul>
-          <li>修复组件编辑时 spm.yml 依赖版本被本地分支覆盖的问题</li>
+          <li>支持复制本地分支名，远程分支改为已关联状态</li>
+          <li>日志面板移至底部并支持收起，优化小屏默认高度</li>
+          <li>Reset Package Caches 前增加确认</li>
+          <li>新增 Sparkle 自动检查、自动下载及检查间隔设置</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 14 Jul 2026 11:24:44 +0800</pubDate>
-      <sparkle:version>29</sparkle:version>
-      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <pubDate>Thu, 16 Jul 2026 09:31:39 +0800</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.5.1.zip"
-        sparkle:edSignature="lsfgOvIOzwJeEsl9HV8qNjul0Q5eB3hm3bLltFOShsqL/0XyWL8H6pnD+hRKEWHmvAYYCrjEdQIlnh/H3GHkAQ=="
-        length="4600636"
+        url="WorkSpace-1.5.2.zip"
+        sparkle:edSignature="K1ZYIH8OGZH2ywVmU6hzyDXOLxFhKp3Hoa9gj9A+b0S463zuOA8obiWq2xgZ4eBDHRBRJuBZwLoUUwK/JtCfDQ=="
+        length="4637049"
         type="application/octet-stream" />
     </item>
   </channel>
