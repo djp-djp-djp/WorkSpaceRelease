@@ -13,16 +13,17 @@
           <li>日志面板移至底部并支持收起，优化小屏默认高度</li>
           <li>Reset Package Caches 前增加确认</li>
           <li>新增 Sparkle 自动检查、自动下载及检查间隔设置</li>
+          <li>新增可点击的图文使用说明，提供详细操作步骤和注意事项</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 16 Jul 2026 09:31:39 +0800</pubDate>
-      <sparkle:version>30</sparkle:version>
+      <pubDate>Thu, 16 Jul 2026 09:56:13 +0800</pubDate>
+      <sparkle:version>31</sparkle:version>
       <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.5.2.zip"
-        sparkle:edSignature="K1ZYIH8OGZH2ywVmU6hzyDXOLxFhKp3Hoa9gj9A+b0S463zuOA8obiWq2xgZ4eBDHRBRJuBZwLoUUwK/JtCfDQ=="
-        length="4637049"
+        sparkle:edSignature="yydW30NsgYjNdDFGKSMF9w6/XaFnG6+PThoQJnjfxaNk42JcjqJ402aC5VVgbjQs0ZbxnqOKvAECDsdVvVBVAQ=="
+        length="4759399"
         type="application/octet-stream" />
     </item>
   </channel>
