@@ -6,24 +6,20 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.5.2</title>
+      <title>WorkSpace 1.5.3</title>
       <description><![CDATA[
         <ul>
-          <li>支持复制本地分支名，远程分支改为已关联状态</li>
-          <li>日志面板移至底部并支持收起，优化小屏默认高度</li>
-          <li>Reset Package Caches 前增加确认</li>
-          <li>新增 Sparkle 自动检查、自动下载及检查间隔设置</li>
-          <li>新增可点击的图文使用说明，提供详细操作步骤和注意事项</li>
+          <li>完善 Sourcery 执行日志与无变化提示</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 16 Jul 2026 09:56:13 +0800</pubDate>
-      <sparkle:version>31</sparkle:version>
-      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <pubDate>Fri, 17 Jul 2026 09:52:45 +0800</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.5.2.zip"
-        sparkle:edSignature="yydW30NsgYjNdDFGKSMF9w6/XaFnG6+PThoQJnjfxaNk42JcjqJ402aC5VVgbjQs0ZbxnqOKvAECDsdVvVBVAQ=="
-        length="4759399"
+        url="WorkSpace-1.5.3.zip"
+        sparkle:edSignature="r3ouQFvaL6iqxVJsaClCOhkEdq6lgW/LTe58kQKGut/IExcFugwJGdSkVDnZ/BNKNfWPvRLyiF8D8PZWbfxADw=="
+        length="4759749"
         type="application/octet-stream" />
     </item>
   </channel>
