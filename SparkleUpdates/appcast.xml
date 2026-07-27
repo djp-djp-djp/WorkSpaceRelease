@@ -9,19 +9,18 @@
       <title>WorkSpace 1.5.4</title>
       <description><![CDATA[
         <ul>
-          <li>新增结构化分支命名</li>
-          <li>支持 feature、fix、release 分支类型</li>
-          <li>支持 paradise、gpark 项目类型并实时组合分支名</li>
+          <li>优化新建分支弹窗高度</li>
+          <li>缩短组件列表，适配小尺寸显示器</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 27 Jul 2026 15:10:30 +0800</pubDate>
-      <sparkle:version>33</sparkle:version>
+      <pubDate>Mon, 27 Jul 2026 18:44:10 +0800</pubDate>
+      <sparkle:version>34</sparkle:version>
       <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="WorkSpace-1.5.4.zip"
-        sparkle:edSignature="yAXnW5sUDvFThos7DQ31gP8sf75UlC21vVwSL99OmfEHxO/FYz4YbBaXNh0g+SNdWzPFOq+e2Zk2/IlYxMndBw=="
-        length="4793366"
+        sparkle:edSignature="tAtiOROFQAKOx15jpSO5rWY6l5537cJAMovynwcHqv4ojmPzCyR1jFx4nbZnALPqHYvpub/YQAH36VbWQsoXAw=="
+        length="4793367"
         type="application/octet-stream" />
     </item>
   </channel>
