@@ -6,21 +6,20 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.5.4</title>
+      <title>WorkSpace 1.6.0</title>
       <description><![CDATA[
         <ul>
-          <li>优化新建分支弹窗高度</li>
-          <li>缩短组件列表，适配小尺寸显示器</li>
+          <li>合并代码支持选择本地或远程分支作为合并源，并支持搜索与单选。</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 27 Jul 2026 18:44:10 +0800</pubDate>
-      <sparkle:version>34</sparkle:version>
-      <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+      <pubDate>Mon, 03 Aug 2026 17:38:25 +0800</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.5.4.zip"
-        sparkle:edSignature="tAtiOROFQAKOx15jpSO5rWY6l5537cJAMovynwcHqv4ojmPzCyR1jFx4nbZnALPqHYvpub/YQAH36VbWQsoXAw=="
-        length="4793367"
+        url="WorkSpace-1.6.0.zip"
+        sparkle:edSignature="F/B/g8/ASNDoynQW7kmxMxg2zZ7vXOz+YUHo3OuVPtHgpbHkkbLeLpoVS14mXJMKSE0qtsKJ1DPGRr8FBkmKCg=="
+        length="4864857"
         type="application/octet-stream" />
     </item>
   </channel>
