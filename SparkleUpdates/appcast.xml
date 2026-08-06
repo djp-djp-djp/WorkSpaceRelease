@@ -6,20 +6,22 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.6.0</title>
+      <title>WorkSpace 1.6.1</title>
       <description><![CDATA[
         <ul>
-          <li>合并代码支持选择本地或远程分支作为合并源，并支持搜索与单选。</li>
+          <li>删除分支时，Branch.yml 为空或缺失会扫描组件同名本地分支</li>
+          <li>删除分支预览支持滚动与缓存，减少重复扫描</li>
+          <li>组件详情支持编辑和选择本地仓库路径</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 03 Aug 2026 17:38:25 +0800</pubDate>
-      <sparkle:version>35</sparkle:version>
-      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <pubDate>Thu, 06 Aug 2026 18:54:50 +0800</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.6.0.zip"
-        sparkle:edSignature="F/B/g8/ASNDoynQW7kmxMxg2zZ7vXOz+YUHo3OuVPtHgpbHkkbLeLpoVS14mXJMKSE0qtsKJ1DPGRr8FBkmKCg=="
-        length="4864857"
+        url="WorkSpace-1.6.1.zip"
+        sparkle:edSignature="bjS0EktEh+3S1K5ODWuCk16B2SkPvIh2YXBdEfkzr/ah7P3oCymTokcyUA3njqFuVonQpGBTsc6xi748rzJPAA=="
+        length="4918689"
         type="application/octet-stream" />
     </item>
   </channel>
