@@ -6,21 +6,21 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.6.2</title>
+      <title>WorkSpace 1.6.3</title>
       <description><![CDATA[
         <ul>
-          <li>修复 CookedData 下载进度，显示真实文件传输进度与处理阶段。</li>
-          <li>支持取消 CookedData 下载，并自动清理临时文件。</li>
+          <li>组件列表支持单组件新建分支</li>
+          <li>新建分支前按项目开发分支执行 fetch 和 pull，确保来源代码最新</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 14 Aug 2026 14:14:22 +0800</pubDate>
-      <sparkle:version>37</sparkle:version>
-      <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+      <pubDate>Fri, 21 Aug 2026 14:54:25 +0800</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.6.2.zip"
-        sparkle:edSignature="irFTlCBGAy1zrYuWmRwqZtfDXXTJArZtHuKUwlaw1yClaDmdtAhboErYfxkDLgv8t/ht8UhdoSypdnuQVewFCQ=="
-        length="4942289"
+        url="WorkSpace-1.6.3.zip"
+        sparkle:edSignature="hX4BXsO6REuHBiUPjSw6zVfk5hDRR5Op0x+eTvpWDR33U4qLDEboYoEnQ8kM9pI1HOcI5NJzOtfXLkCoIAm8Cg=="
+        length="5004361"
         type="application/octet-stream" />
     </item>
   </channel>
