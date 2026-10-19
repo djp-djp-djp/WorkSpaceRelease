@@ -6,22 +6,23 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.7.0</title>
+      <title>WorkSpace 1.7.1</title>
       <description><![CDATA[
         <ul>
-          <li>新增 MCP 接入，可通过 Codex 操作工作区。</li>
-          <li>支持分支切换、本地依赖管理和 MCP 使用说明。</li>
-          <li>优化 Package 缓存重置，权限失败时自动尝试其他方式。</li>
+          <li>新建分支支持按需创建组件分支，其余组件沿用来源依赖。</li>
+          <li>新增依赖组件筛选和批量新建选择。</li>
+          <li>优化同步、新建分支、远程分支和切换分支时的代码拉取。</li>
+          <li>日志支持按最低级别筛选，并记住上次选择。</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 24 Sep 2026 13:56:15 +0800</pubDate>
-      <sparkle:version>40</sparkle:version>
-      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <pubDate>Mon, 19 Oct 2026 11:25:50 +0800</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.7.0.zip"
-        sparkle:edSignature="BaRwMlslh4NhOIaQSJu4CcROPwXR53cst+UnpQ0Fhwigg2755NdOai6IO1bPvv3wZKn8lcqN75fEr+uoaZDcDw=="
-        length="11559179"
+        url="WorkSpace-1.7.1.zip"
+        sparkle:edSignature="3mSXic/WZzLm7nQB0ueJ9aitrL5DqBUBxTADZURQH5QzNVKq9Qkw1uyjn52pTROnlkSP3VbtJDGHzwIG5DAFAg=="
+        length="11592455"
         type="application/octet-stream" />
     </item>
   </channel>
