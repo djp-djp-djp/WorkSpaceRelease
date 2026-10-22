@@ -6,23 +6,22 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 1.7.1</title>
+      <title>WorkSpace 1.7.2</title>
       <description><![CDATA[
         <ul>
-          <li>新建分支支持按需创建组件分支，其余组件沿用来源依赖。</li>
-          <li>新增依赖组件筛选和批量新建选择。</li>
-          <li>优化同步、新建分支、远程分支和切换分支时的代码拉取。</li>
-          <li>日志支持按最低级别筛选，并记住上次选择。</li>
+          <li>新增「分支构建」入口，打开 GitLab 打包页面并自动填入当前工作区分支。</li>
+          <li>当前分支未关联远端时，禁用「分支构建」按钮。</li>
+          <li>支持双击壳子分支信息行，查看 Git 历史与文件差异。</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 19 Oct 2026 11:25:50 +0800</pubDate>
-      <sparkle:version>41</sparkle:version>
-      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <pubDate>Thu, 22 Oct 2026 10:03:08 +0800</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-1.7.1.zip"
-        sparkle:edSignature="3mSXic/WZzLm7nQB0ueJ9aitrL5DqBUBxTADZURQH5QzNVKq9Qkw1uyjn52pTROnlkSP3VbtJDGHzwIG5DAFAg=="
-        length="11592455"
+        url="WorkSpace-1.7.2.zip"
+        sparkle:edSignature="B9kTeqxODOCN4fcf9AH+vJu0pKvmTW6NGQAfud5VZveRB3aohYTBra6gfI6rN5ffQvhQnyeKCFbpDhgld+pzDw=="
+        length="11604326"
         type="application/octet-stream" />
     </item>
   </channel>
