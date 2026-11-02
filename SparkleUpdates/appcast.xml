@@ -6,24 +6,22 @@
     <description>WorkSpace 内部更新源</description>
     <language>zh-CN</language>
     <item>
-      <title>WorkSpace 2.0.0</title>
+      <title>WorkSpace 2.0.1</title>
       <description><![CDATA[
         <ul>
-          <li>全新原生界面，重新整理功能布局，适配深浅色主题。</li>
-          <li>新增 Branch 组件总览，集中查看分支与 Git 状态。</li>
-          <li>新增可视化冲突解决，支持三栏对比、逐块选择和手动编辑。</li>
-          <li>优化 Git 批量操作与提交体验，支持提交正文和合并信息自动填充。</li>
-          <li>完善组件管理与设置，更新应用图标和使用说明。</li>
+          <li>Branch 组件新增分支名搜索，保留组件名称搜索。</li>
+          <li>新增开发页 Git 状态刷新设置，支持手动及每 1 分钟、10 分钟、1 小时自动刷新，切换模块后暂停。</li>
+          <li>开发页支持 ⌘R 刷新并显示进度弹窗，刷新方式可在「设置 → 更新」调整。</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 30 Oct 2026 11:02:09 +0800</pubDate>
-      <sparkle:version>43</sparkle:version>
-      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <pubDate>Mon, 02 Nov 2026 16:01:19 +0800</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-2.0.0.zip"
-        sparkle:edSignature="WS02NBWRGtkW1rQs3MnaAW3pMHXRtane8i2isfbxPUc1XnmL3B7UgbKfatylDe93ftLtZDHQEdgB1n4Hu9VLBQ=="
-        length="13003677"
+        url="WorkSpace-2.0.1.zip"
+        sparkle:edSignature="Chp643JJefc5rjHgQ9u1xJ8HoDTZxLB+1M0mNUaIXfKtBsDso8cJDFJFJkz+vg2BeifFUB9Mqwr1RmrJGZntDQ=="
+        length="13012535"
         type="application/octet-stream" />
     </item>
   </channel>
