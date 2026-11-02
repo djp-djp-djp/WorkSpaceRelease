@@ -12,16 +12,17 @@
           <li>Branch 组件新增分支名搜索，保留组件名称搜索。</li>
           <li>新增开发页 Git 状态刷新设置，支持手动及每 1 分钟、10 分钟、1 小时自动刷新，切换模块后暂停。</li>
           <li>开发页支持 ⌘R 刷新并显示进度弹窗，刷新方式可在「设置 → 更新」调整。</li>
+          <li>修复手动检查更新后加载提示未关闭、安装时卡在等待退出的问题。</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 02 Nov 2026 16:01:19 +0800</pubDate>
-      <sparkle:version>44</sparkle:version>
+      <pubDate>Mon, 02 Nov 2026 16:18:18 +0800</pubDate>
+      <sparkle:version>45</sparkle:version>
       <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="WorkSpace-2.0.1.zip"
-        sparkle:edSignature="Chp643JJefc5rjHgQ9u1xJ8HoDTZxLB+1M0mNUaIXfKtBsDso8cJDFJFJkz+vg2BeifFUB9Mqwr1RmrJGZntDQ=="
-        length="13012535"
+        url="WorkSpace-2.0.1-45.zip"
+        sparkle:edSignature="THwZyD9QXPu2FiL+5RYzTHFbQ/VoXf56jZ1jZ/NnGWFLne4nnA/PWVFM9IchLkQtI66MSNoVS2i0muA/0AmfCQ=="
+        length="13013595"
         type="application/octet-stream" />
     </item>
   </channel>
